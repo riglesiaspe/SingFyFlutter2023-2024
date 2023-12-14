@@ -1,0 +1,44 @@
+[
+    {
+        "title":"AUDIOLIBRO INVENTADO 1",
+        "img":"img/imgSlider1.jpg",
+        "audio":"sample-12s.mp3",
+        "text":"Roberto IP",
+        "rating":"8"
+    },
+    {
+        "title":"AUDIOLIBRO COOL4",
+        "img":"img/imgSlider4.jpg",
+        "audio":"sample-15s.mp3",
+        "text":"Laura IP",
+        "rating":"7"
+    },
+    {
+        "title":"AUDIOLIBRO COOL6",
+        "img":"img/imgSlider6.jpg",
+        "audio":"sample-9s.mp3",
+        "text":"Sofia IP",
+        "rating":"1"
+    },
+    {
+        "title":"AUDIOLIBRO 5",
+        "img":"img/imgSlider5.jpg",
+        "audio":"sample-15s.mp3",
+        "text":"Teres2 IP",
+        "rating":"7"
+    },
+    {
+        "title":"AUDIOLIBRO INVENTADO 2",
+        "img":"img/imgSlider2.jpg",
+        "audio":"sample-12s.mp3",
+        "text":"Arturo IP",
+        "rating":"4"
+    },
+    {
+        "title":"PELICULA PALOMA",
+        "img":"img/imgSlider3.jpg",
+        "audio":"sample-15s.mp3",
+        "text":"Agustín IP",
+        "rating":"2"
+    }
+]

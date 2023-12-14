@@ -1,0 +1,23 @@
+[
+    {
+        "title":"AUDIOLIBRO INVENTADO 1",
+        "img":"img/imgSlider1.jpg",
+        "audio":"sample-9s.mp3",
+        "text":"Roberto IP",
+        "rating":"8"
+    },
+    {
+        "title":"AUDIOLIBRO INVENTADO 2",
+        "img":"img/imgSlider2.jpg",
+        "audio":"sample-12s.mp3",
+        "text":"Arturo IP",
+        "rating":"4"
+    },
+    {
+        "title":"AUDIOLIBRO PALOMA",
+        "img":"img/imgSlider3.jpg",
+        "audio":"sample-15s.mp3",
+        "text":"Agustín IP",
+        "rating":"2"
+    }
+]
